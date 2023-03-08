@@ -9,7 +9,7 @@ Design and develop a Native Android application that allows users to build and m
 
 ## Instructions
 
-1. Allocate maximum 6 hours for this project
+1. Allocate 3 hours for this project
 
 2. Create a Native Android application that meets the requirements outlined in the [Requirements](#requirements) section.
 
