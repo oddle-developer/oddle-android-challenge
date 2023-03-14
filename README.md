@@ -38,11 +38,11 @@ To complete the challenge, your app should fit the following criteria
 ## Submission Steps
 1. Create a private repository on your Github account
 
-2. Add [oddle-hire-android](https://github.com/oddle-hire-android) as a collaborator for your repository
+2. Add [oddle-developer](https://github.com/oddle-developer) as a collaborator for your repository
 
 3. Code, commit. and push changes as many times as required
 
-4. Once you are done, create a merge request in your private repo and invite [oddle-hire-android](https://github.com/oddle-hire-android) as the reviewer
+4. Once you are done, create a merge request in your private repo and invite [oddle-developer](https://github.com/oddle-developer) as the reviewer
 
 5. Set the title of the merge request to [READY4REVIEW], as only the merge request with this title will be evaluated
 
