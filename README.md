@@ -36,7 +36,7 @@ To complete the challenge, your app should fit the following criteria
 
 
 ## Submission Steps
-1. Create a private repository on your Github account
+1. Create a private repository on your Github account with the following name: oddle-android-challenge
 
 2. Add [oddle-developer](https://github.com/oddle-developer) as a collaborator for your repository
 
