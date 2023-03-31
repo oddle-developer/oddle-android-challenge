@@ -26,7 +26,7 @@ To complete the challenge, your app should fit the following criteria
 2. The use of the following tech stacks is mandatory
     - Native Android
     - Kotlin (not Java)
-    - Jetpack Compose (UI must be built with Jetpack Compose)
+    - Jetpack Compose (UI must be strictly built with Jetpack Compose)
 
 3. Long-running tasks such as network calls or disk operations must be performed with Kotlin coroutines
 
